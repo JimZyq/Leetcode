@@ -1,5 +1,5 @@
 # Number of Islands
-**Solution:** Using DFS to search for the possible islands and change the status into '0', using O(n) loop to search all the nodes in the vector. 
+**Solution:** Using BFS to search for the possible islands and change the status into '0', using O(n) loop to search all the nodes in the vector. 
 
 **Time Complexity:** O(n)
 
