@@ -6,6 +6,5 @@
 **Space Complexity:** O()
 
 
-```cpp
-
+```java
 ```
